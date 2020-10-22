@@ -2,7 +2,7 @@
 
 Copyright © 2013-2020 [九章算法](https://jiuzhang.com) 浙ICP备19045946号-1
 
-商务合作: [fukesu@jiuzhang.com](mailto:fukesu@jiuzhang.com)
+商务合作：[fukesu@jiuzhang.com](mailto:fukesu@jiuzhang.com)
 
 加入我们：[jiuzhang.com](https://jiuzhang.com/joinus)
 
